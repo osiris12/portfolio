@@ -32,7 +32,7 @@
 									</a>
 								</li>
 								<li>
-									<a href="https://www.facebook.com/osiris.robledo.5/" target="_blank" class="icon brands fa-linkedin">
+									<a href="https://www.linkedin.com/in/osirisrobledo/" target="_blank" class="icon brands fa-linkedin">
 										<span class="label">Linkedn</span>
 									</a>
 								</li>
